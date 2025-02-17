@@ -1,0 +1,13 @@
+Name: Python
+Id: ms-python.python
+Description: Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.
+Version: 2025.0.0
+Released: 17.02.2025
+Publisher: Microsoft
+License: MIT License
+??? Url: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2025.0.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+sha256sum:
+5df59964f7c8324db5a0c72d8dad7ec51399c28ab245171daf44af8558489008  ms-python.python-2025.0.0-linux-x64.vsix
+0f03220113b48122db6d88355a83b6b7d6e1594696af9e807b3bdbf53d123a94  ms-python.python-2025.0.0-win32-x64.vsix
